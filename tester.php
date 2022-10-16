@@ -8,5 +8,5 @@ if($sexo == "M" and $idade>=18){
 }else if($sexo == "F" and $idade>=18){
     echo "pode entrar, voce paga meia". $entrada/2;
 }else{
-    echo"voce nao pode entrar";
+    echo"voce não pode entrar";
 }
